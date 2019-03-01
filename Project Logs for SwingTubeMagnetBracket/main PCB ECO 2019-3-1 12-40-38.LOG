@@ -1,0 +1,68 @@
+Removed Pin From Net: NetName=GND Pin=R1-1
+Removed Pin From Net: NetName=VCC Pin=R1-2
+Removed Pin From Net: NetName=GND Pin=R2-1
+Removed Pin From Net: NetName=VCC Pin=R2-2
+Removed Pin From Net: NetName=GND Pin=R3-1
+Removed Pin From Net: NetName=VCC Pin=R3-2
+Removed Pin From Net: NetName=GND Pin=R4-1
+Removed Pin From Net: NetName=VCC Pin=R4-2
+Removed Pin From Net: NetName=GND Pin=R5-1
+Removed Pin From Net: NetName=VCC Pin=R5-2
+Removed Pin From Net: NetName=GND Pin=R6-1
+Removed Pin From Net: NetName=VCC Pin=R6-2
+Removed Pin From Net: NetName=GND Pin=R7-1
+Removed Pin From Net: NetName=VCC Pin=R7-2
+Removed Pin From Net: NetName=GND Pin=R8-1
+Removed Pin From Net: NetName=VCC Pin=R8-2
+Removed Pin From Net: NetName=GND Pin=R9-1
+Removed Pin From Net: NetName=VCC Pin=R9-2
+Removed Member From Class: ClassName=main Member=R1
+Removed Member From Class: ClassName=main Member=R2
+Removed Member From Class: ClassName=main Member=R3
+Removed Member From Class: ClassName=main Member=R4
+Removed Member From Class: ClassName=main Member=R5
+Removed Member From Class: ClassName=main Member=R6
+Removed Member From Class: ClassName=main Member=R7
+Removed Member From Class: ClassName=main Member=R8
+Removed Member From Class: ClassName=main Member=R9
+Added Component: Designator=em1(electromagnet)
+Added Component: Designator=em2(electromagnet)
+Added Component: Designator=em3(electromagnet)
+Added Component: Designator=em4(electromagnet)
+Added Component: Designator=em5(electromagnet)
+Added Component: Designator=em6(electromagnet)
+Added Component: Designator=em7(electromagnet)
+Added Component: Designator=em8(electromagnet)
+Added Component: Designator=em9(electromagnet)
+Added Component: Designator=em10(electromagnet)
+Added Pin To Net: NetName=VCC Pin=em1-1
+Added Pin To Net: NetName=GND Pin=em1-2
+Added Pin To Net: NetName=GND Pin=em2-1
+Added Pin To Net: NetName=VCC Pin=em2-2
+Added Pin To Net: NetName=VCC Pin=em3-1
+Added Pin To Net: NetName=GND Pin=em3-2
+Added Pin To Net: NetName=GND Pin=em4-1
+Added Pin To Net: NetName=VCC Pin=em4-2
+Added Pin To Net: NetName=VCC Pin=em5-1
+Added Pin To Net: NetName=GND Pin=em5-2
+Added Pin To Net: NetName=GND Pin=em6-1
+Added Pin To Net: NetName=VCC Pin=em6-2
+Added Pin To Net: NetName=VCC Pin=em7-1
+Added Pin To Net: NetName=GND Pin=em7-2
+Added Pin To Net: NetName=GND Pin=em8-1
+Added Pin To Net: NetName=VCC Pin=em8-2
+Added Pin To Net: NetName=VCC Pin=em9-1
+Added Pin To Net: NetName=GND Pin=em9-2
+Added Pin To Net: NetName=GND Pin=em10-1
+Added Pin To Net: NetName=VCC Pin=em10-2
+Added Member To Class: ClassName=main Member=Component em1 R1
+Added Member To Class: ClassName=main Member=Component em2 R2
+Added Member To Class: ClassName=main Member=Component em3 R3
+Added Member To Class: ClassName=main Member=Component em4 R4
+Added Member To Class: ClassName=main Member=Component em5 R5
+Added Member To Class: ClassName=main Member=Component em6 R6
+Added Member To Class: ClassName=main Member=Component em7 R7
+Added Member To Class: ClassName=main Member=Component em8 R8
+Added Member To Class: ClassName=main Member=Component em9 R9
+Added Member To Class: ClassName=main Member=Component em10 R10
+Added Room: Name=main
