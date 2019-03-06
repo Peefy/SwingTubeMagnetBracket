@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=GND Pin=em2-1
+Removed Pin From Net: NetName=VCC Pin=em2-2
+Removed Pin From Net: NetName=GND Pin=em4-1
+Removed Pin From Net: NetName=VCC Pin=em4-2
+Removed Pin From Net: NetName=GND Pin=em6-1
+Removed Pin From Net: NetName=VCC Pin=em6-2
+Removed Pin From Net: NetName=GND Pin=em8-1
+Removed Pin From Net: NetName=VCC Pin=em8-2
+Removed Pin From Net: NetName=GND Pin=em10-1
+Removed Pin From Net: NetName=VCC Pin=em10-2
+Added Pin To Net: NetName=VCC Pin=em2-1
+Added Pin To Net: NetName=GND Pin=em2-2
+Added Pin To Net: NetName=VCC Pin=em4-1
+Added Pin To Net: NetName=GND Pin=em4-2
+Added Pin To Net: NetName=VCC Pin=em6-1
+Added Pin To Net: NetName=GND Pin=em6-2
+Added Pin To Net: NetName=VCC Pin=em8-1
+Added Pin To Net: NetName=GND Pin=em8-2
+Added Pin To Net: NetName=VCC Pin=em10-1
+Added Pin To Net: NetName=GND Pin=em10-2
+Added Member To Class: ClassName=main Member=Component em1 R1
+Added Member To Class: ClassName=main Member=Component em2 R2
+Added Member To Class: ClassName=main Member=Component em3 R3
+Added Member To Class: ClassName=main Member=Component em4 R4
+Added Member To Class: ClassName=main Member=Component em5 R5
+Added Member To Class: ClassName=main Member=Component em6 R6
+Added Member To Class: ClassName=main Member=Component em7 R7
+Added Member To Class: ClassName=main Member=Component em8 R8
+Added Member To Class: ClassName=main Member=Component em9 R9
+Added Member To Class: ClassName=main Member=Component em10 R10
+Added Room: Name=main
